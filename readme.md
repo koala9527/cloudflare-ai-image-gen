@@ -1,2 +1,2 @@
 
-# Cloudflare StableDiffusion API 对接
+# Cloudflare Claude StableDiffusion API 对接
